@@ -1,4 +1,4 @@
-<h1>My website</h1>
+<h1>Israel's Mini Web Site</h1>
 <h2>Schools I attended</h2>
 <ol>
   <li>Wilson Elementary School</li>

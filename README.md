@@ -16,5 +16,5 @@
 <P> I would like to work as an electrical engineer. Since I was young, I have enjoyed learning about electrical appliances. It is my hope to eventually be employed in this field.</P>
 
 <img src = https://blogs.stthom.edu/wp-content/uploads/2022/08/BeYourBold_Blog_Engineering-1024x684.jpg 
-height = "40"
-width = "40" >
+height = "100"
+width = "100" >

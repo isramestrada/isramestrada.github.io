@@ -19,6 +19,6 @@
 height = "200"
 width = "200" >
 
-<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEnK0CvQmAQuqBsXdoTWQLbe8g-ZUQ2yL6g&s
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEnK0CvQmAQuqBsXdoTWQLbe8g-ZUQ2yL6g&s.jpg
 height = "200"
 width = "200" >

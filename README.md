@@ -19,6 +19,5 @@
 height = "200"
 width = "200" > <img src = https://ee.nd.edu/wp-content/uploads/sites/8/2020/09/grant.jpg
 height = "200"
-width = "200" > <img src = https://cdn.prod.website-files.com/65bb5225fbae5bbd7dd3b44f/66444b6e79c2aad62c518bc8_Electrical-16X9.jpeg height = "200" width = "200" > <img src = https://images.ctfassets.net/mviowpldu823/4gLCSuTjAT0rtOlCcw6vbq/2ce7a47cd0f5ed13413e81160296f29c/ECE_header.jpg height = "200" width = "200" > <img src = https://predictabledesigns.com/wp-content/uploads/2016/09/SymbolsChalkboard-1-1030x567.jpg height = "200" width = "200" >
-
+width = "200" > <img src = https://cdn.prod.website-files.com/65bb5225fbae5bbd7dd3b44f/66444b6e79c2aad62c518bc8_Electrical-16X9.jpeg height = "200" width = "200" > <img src = https://images.ctfassets.net/mviowpldu823/4gLCSuTjAT0rtOlCcw6vbq/2ce7a47cd0f5ed13413e81160296f29c/ECE_header.jpg height = "200" width = "200" > 
 

@@ -4,4 +4,7 @@
 <h2>Schools I attended</h2>
 <ol>
   <li>Wilson Elementary School</li>
-  <li>Washington Intermediate School</li> </ol>
+  <li>Washington Intermediate School</li>
+  <li>Dinuba High School</li>
+  <li>Reedley Community College</li>
+</ol>

@@ -17,8 +17,8 @@
 
 <img src = https://blogs.stthom.edu/wp-content/uploads/2022/08/BeYourBold_Blog_Engineering-1024x684.jpg 
 height = "200"
-width = "200" >
-
-<img src = https://ee.nd.edu/wp-content/uploads/sites/8/2020/09/grant.jpg
+width = "200" > <img src = https://ee.nd.edu/wp-content/uploads/sites/8/2020/09/grant.jpg
 height = "200"
 width = "200" >
+
+

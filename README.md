@@ -19,6 +19,6 @@
 height = "200"
 width = "200" > <img src = https://ee.nd.edu/wp-content/uploads/sites/8/2020/09/grant.jpg
 height = "200"
-width = "200" >
+width = "200" > <img src = https://cdn.prod.website-files.com/65bb5225fbae5bbd7dd3b44f/66444b6e79c2aad62c518bc8_Electrical-16X9.jpeg height = "200" width = "200" >
 
 
